@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EMSMaterialPreparation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EMSMaterialPreparation_GETProductionInfo_ZWM_MY_I_PROD_SCHED" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://SMPPDI01.pasmydc.local:8000/sap/bc/srt/rfc/sap/zwm_my_i_prod_sched/010/zwm_my_i_prod_sched/prod_sched</Value>
+    </Setting>
+    <Setting Name="EMSMaterialPreparation_GET_STOCK_PASMY_EMS_ZIM_GET_EMS_STOCK" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://SMPPDI01.pasmydc.local:8000/sap/bc/srt/rfc/sap/zim_get_ems_stock/010/zim_get_ems_stock/ems_stock</Value>
+    </Setting>
+    <Setting Name="EMSMaterialPreparation_GETEMSVENDORSTOCK_ZIM_GET_VENDOR_STOCK" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://SMPPDI01.pasmydc.local:8000/sap/bc/srt/rfc/sap/zim_get_vendor_stock/010/zim_get_vendor_stock/vendor_stock</Value>
+    </Setting>
+    <Setting Name="EMSMaterialPreparation_BARC_STOCK_ZWM_MY_I_BARC_STOCK" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://SMPPDI01.pasmydc.local:8000/sap/bc/srt/rfc/sap/zwm_my_i_barc_stock/010/zwm_my_i_barc_stock/barc_stock</Value>
+    </Setting>
+    <Setting Name="EMSMaterialPreparation_GET_LOCATION_ZWM_I_MFRPN_BARC" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://SMPPDI01.pasmydc.local:8000/sap/bc/srt/rfc/sap/zwm_i_mfrpn_barc/010/zwm_i_mfrpn_barc/mfrpn_barc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
